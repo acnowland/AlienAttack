@@ -1,0 +1,12 @@
+res://Scenes/game.tscn
+res://Scripts/rocket.gd
+res://Scripts/game.gd
+res://Scenes/hud.tscn
+res://Scenes/player.tscn
+res://Scripts/player.gd
+res://Scenes/enemy_path.tscn
+res://Scripts/enemy_path.gd
+res://Scenes/enemy_spawner.tscn
+res://Scripts/enemy_spawner.gd
+res://Scenes/enemy_second_path.tscn
+res://Scripts/enemy_second_path.gd

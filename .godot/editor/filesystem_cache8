@@ -1,0 +1,33 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704110809
+icon.svg::CompressedTexture2D::3510320086686515027::1703850212::1703850217::1::::<><>::
+::res://Assets/::1703850442
+::res://Assets/audio/::1703850442
+explode.wav::AudioStreamWAV::3725166867383139011::1703850422::1703850423::1::::<><>::
+hit.wav::AudioStreamWAV::8102691231642830016::1703850422::1703850423::1::::<><>::
+sfx_laser2.wav::AudioStreamWAV::1294611864223638040::1703850422::1703850423::1::::<><>::
+::res://Assets/font/::1703850442
+Kenney Blocks.ttf::FontFile::4917226501127649357::1703850422::1703850423::1::::<><>::
+::res://Assets/textures/::1703850440
+bg.png::CompressedTexture2D::5338907155069893350::1703850422::1703850423::1::::<><>::
+enemy_ship.png::CompressedTexture2D::1039469895673979325::1703850422::1703850423::1::::<><>::
+enemy_ship_2.png::CompressedTexture2D::8111711261602873477::1703850422::1703850423::1::::<><>::
+orb.png::CompressedTexture2D::6300744498188464875::1703850422::1703850423::1::::<><>::
+player_ship.png::CompressedTexture2D::7976661189807969573::1703850422::1703850423::1::::<><>::
+rocket.png::CompressedTexture2D::9214231785340635002::1703850422::1703850423::1::::<><>::
+::res://Scenes/::1703967685
+enemy.tscn::PackedScene::3500304522629289334::1703961948::0::1::::<><>::uid://o2r6goc1vxcv
+enemy_spawner.tscn::PackedScene::1825684959005523164::1703966457::0::1::::<><>::res://Scripts/enemy_spawner.gd
+game.tscn::PackedScene::4204022685863698116::1703966457::0::1::::<><>::uid://cichaycknfklq::::res://Assets/textures/bg.png<>res://Scripts/game.gd<>uid://bamjag7h47p0n::::res://Scenes/player.tscn<>uid://1qopvy4o2k1g::::res://Scenes/hud.tscn<>uid://1am082o4s1au::::res://Scenes/enemy_spawner.tscn
+game_over_screen.tscn::PackedScene::8866310777022251620::1703966457::0::1::::<><>::res://Scripts/game_over_screen.gd
+hud.tscn::PackedScene::1858817944864171002::1703966457::0::1::::<><>::uid://ccb7acm45spll::::res://Assets/font/Kenney Blocks.ttf<>res://Scripts/hud.gd<>uid://cv1elut3cv21d::::res://Assets/textures/orb.png
+player.tscn::PackedScene::2411740034608636363::1703935819::0::1::::<><>::res://Scripts/player.gd<>uid://dlv7pdymfrudx
+rocket.tscn::PackedScene::4405175352335469557::1703961948::0::1::::<><>::res://Scripts/rocket.gd<>uid://d4jpb0j3un06q
+::res://Scripts/::1703967685
+enemy.gd::GDScript::-1::1703966419::0::1::::<>Area2D<>::
+enemy_spawner.gd::GDScript::-1::1703960881::0::1::::<>Node2D<>::
+game.gd::GDScript::-1::1703964511::0::1::::<>Node2D<>::
+game_over_screen.gd::GDScript::-1::1703963916::0::1::::<>Control<>::
+hud.gd::GDScript::-1::1703963260::0::1::::<>Control<>::
+player.gd::GDScript::-1::1703960108::0::1::::<>CharacterBody2D<>::
+rocket.gd::GDScript::-1::1703966408::0::1::::<>Area2D<>::
